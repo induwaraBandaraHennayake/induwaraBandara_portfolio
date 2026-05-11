@@ -83,8 +83,8 @@
           <div class="row align-items-center">
 
             <div class="col-md-10 mx-auto text-center">
-              <h1 class="heading" data-aos="fade-up">5th Project</h1>
-              <h2 class="subheading" data-aos="fade-up" data-aos-delay="100">Design a Vehicle renting service mobile app</h2>
+              <h1 class="heading" data-aos="fade-up">7th Project</h1>
+              <h2 class="subheading" data-aos="fade-up" data-aos-delay="100">Design a Event Mangament Dashboard for web app</h2>
             </div>
 
           </div>
@@ -105,19 +105,16 @@
         <div class="portfolio-single-wrap unslate_co--section" id="portfolio-single-section">
           <div class="portfolio-single-inner">
 
-            <h2 class="heading-portfolio-single-h2">Mobile Application</h2>
+            <h2 class="heading-portfolio-single-h2">Web  Application</h2>
 
             <div class="row justify-content-between align-items-stretch">
 
               <div class="col-lg-8">
-                <p><a href="images/v1.jpg" data-fancybox="gal"><img src="images/v1.jpg" alt="Image" class="img-fluid"></a></p>
-                <p><a href="images/v2.jpg" data-fancybox="gal"><img src="images/v2.jpg" alt="Image" class="img-fluid"></a></p>
-                <p><a href="images/v3.jpg" data-fancybox="gal"><img src="images/v3.jpg" alt="Image" class="img-fluid"></a></p>
-                <p><a href="images/v4.jpg" data-fancybox="gal"><img src="images/v4.jpg" alt="Image" class="img-fluid"></a></p>
-                <p><a href="images/v5.jpg" data-fancybox="gal"><img src="images/v5.jpg" alt="Image" class="img-fluid"></a></p>
-                <p><a href="images/v6.jpg" data-fancybox="gal"><img src="images/v6.jpg" alt="Image" class="img-fluid"></a></p>
-                <p><a href="images/v7.jpg" data-fancybox="gal"><img src="images/v7.jpg" alt="Image" class="img-fluid"></a></p>
-
+                <p><a href="images/dash1.jpg" data-fancybox="gal"><img src="images/dash1.jpg" alt="Image" class="img-fluid"></a></p>
+                <p><a href="images/dash2.jpg" data-fancybox="gal"><img src="images/dash2.jpg" alt="Image" class="img-fluid"></a></p>
+                <p><a href="images/dash3.jpg" data-fancybox="gal"><img src="images/dash3.jpg" alt="Image" class="img-fluid"></a></p>
+                <p><a href="images/dash4.jpg" data-fancybox="gal"><img src="images/dash4.jpg" alt="Image" class="img-fluid"></a></p>
+                
 
 
 
@@ -128,12 +125,11 @@
                     <div class="col-md-12 mb-4">
                       <div class="detail-v1">
                         <span class="detail-label">Project Description</span>
-                        <p>This project focuses on designing a mobile application interface for a vehicle renting service in Sri Lanka, targeted primarily at tourists. The app connects tourists with local vehicle owners, allowing users to browse, filter, and compare available vehicles before directly contacting the owner. The design emphasizes clarity, simplicity, and ease of navigation, ensuring a smooth user experience for both renters and vehicle listers without handling in-app payments.</p>
+                        <p>Designed a modern Event Management Dashboard UI/UX concept to help organizers manage events, attendees, ticket sales, and analytics in one platform. The dashboard includes Overview, Browse Events, Event Details, and Guest Insights pages with a clean and user-friendly interface.
                         <span class="detail-label">Identified Problem</span>
-                        <p>Tourists visiting Sri Lanka often face difficulties finding reliable vehicle rentals due to language barriers, lack of trusted platforms, and fragmented communication with local vehicle owners. Existing solutions are either overly complex, not tourist-friendly, or require third-party agents, leading to higher costs and reduced transparency. Vehicle owners also lack a simple digital platform to showcase their vehicles to a wider audience.</p>       
+                        <p>Many event management systems have complicated layouts and poor data organization. Organizers face difficulties when tracking bookings, attendee details, ticket sales, and event performance efficiently.
                         <span class="detail-label">Solution</span>
-                        <p>The solution is a user-friendly mobile marketplace that bridges tourists and local vehicle owners through a clean and intuitive interface. The app allows tourists to easily search, filter, and view detailed vehicle listings, while enabling owners to list their vehicles through a simple posting form. By providing direct access to owner contact details and vehicle locations, the platform removes intermediaries, improves trust, and enhances convenience for both user groups.</p>
-
+                        <p>Created a clean and interactive dashboard design with simple navigation, event analytics, attendee insights, and event management features. The design improves usability, makes data easier to understand, and helps organizers manage events more efficiently.</p>
 
                       </div>
                     </div>
@@ -141,13 +137,13 @@
                     <div class="col-md-12 mb-4">
                       <div class="detail-v1">
                         <span class="detail-label">Project Date</span>
-                        <span class="detail-val">December 15th, 2025</span>
+                        <span class="detail-val">January 5th, 2026</span>
                       </div>
                     </div>
                     <div class="col-md-12 mb-4">
                       <div class="detail-v1">
                         <span class="detail-label">Role</span>
-                        <span class="detail-val"><a href="#">Identity</a>, <a href="#">Mobile application Design</a></span>
+                        <span class="detail-val"><a href="#">Identity</a>, <a href="#">Web Dashboard Design</a></span>
                       </div>
                     </div>
                     
